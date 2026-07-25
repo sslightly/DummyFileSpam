@@ -1,0 +1,9 @@
+Program: DummyFolderSpam, Create a folder then delete the folder instantly until the end of time.
+
+Dummyfile.bat -> Create a folder then instantly delete the folder instantly until the end of time.
+Dummyfile --supress.bat -> Create a folder then instantly delete the folder with no output instantly until the end of time.
+Dummyfile --undo.bat -> Remove the dummy folder.
+Dummyfile --create.bat -> Create the dummy folder.
+
+Thank you for using our program C:
+Visit our website --> https://sslightly.github.io
